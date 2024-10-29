@@ -1,6 +1,6 @@
-# MEME-FROG
+# hamster_combat_mini_app_clone
 
-This repository contains the initial setup and the final version of the Meme Frog project, including the basic project structure, necessary images, and icons.
+This repository contains the initial setup and the final version of the hamster_combat_mini_app_clone project, including the basic project structure, necessary images, and icons.
 
 ## Overview
 
